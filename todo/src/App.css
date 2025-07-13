@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  
+}
+h1{
+  text-align: center;
+}
+
+form{
+  width: 1170px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+form input{
+  height: 40px;
+  flex-basis: 80%;
+ 
+}
+form button{
+  height: 40px;
+  flex-basis: 20%;
+ 
+}
